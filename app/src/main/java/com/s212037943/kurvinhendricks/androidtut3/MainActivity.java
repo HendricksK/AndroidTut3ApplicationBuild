@@ -44,7 +44,7 @@ public class MainActivity extends Activity implements View.OnClickListener, Adap
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mainTextView = (TextView) findViewById(R.id.main_textview);
-        mainTextView.setText("Set In Java");
+        //mainTextView.setText("Set In Java");
         mainButton = (Button) findViewById(R.id.main_button);
         mainButton.setOnClickListener(this);
         mainEditText = (EditText) findViewById(R.id.main_edittext);

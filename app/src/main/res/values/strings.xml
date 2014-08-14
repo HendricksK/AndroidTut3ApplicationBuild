@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThirdAppGitHubIntergration</string>
+    <string name="textview">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Update the TextView</string>
+    <string name="hint">A Name</string>
+</resources>
